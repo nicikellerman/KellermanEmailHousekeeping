@@ -16,7 +16,8 @@ valid 931 - not blacklisted 875 = 56
 invalid 102 - blacklisted 157 = -55 (edited)
 
 ---
-[Create Grammy Voting Copy to sync Blacklisted between Excel & Sendinblue]
+Create Grammy Voting Copy to sync Blacklisted between Excel & Sendinblue
+
 Imported [102] *invalid to [157] *blacklisted
 >--message = [102] existing contacts across all lists--<
 *blacklisted now = [157] existing, [28] new = [185]
