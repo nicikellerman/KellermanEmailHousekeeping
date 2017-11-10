@@ -25,6 +25,6 @@ Imported [102] *invalid to [157] *blacklisted
 [185] *blacklisted now in $Grammy Voting*
 [847] not *blacklisted now in $Grammy Voting*
 
-# YES 
+# YES @GrammyVoting = [1032]
 *[185] blacklisted + [847] notblacklisted = [1032] in @GrammyVoting!*
-@GrammyVoting = [1032]
+
